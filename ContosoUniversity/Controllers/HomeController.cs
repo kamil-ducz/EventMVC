@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using ContosoUniversity.Models;
+using EventsMVC.Models;
 
-namespace ContosoUniversity.Controllers
+namespace EventsMVC.Controllers
 {
     public class HomeController : Controller
     {
